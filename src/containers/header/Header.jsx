@@ -19,13 +19,12 @@ const Header = () => {
                 <img src= {people} alt="people" />
                 <p>1600 people requested access in the last 24 hours</p>
             </div>
-            <div className='gpt3__header-image'>
-            <img src={ai} alt="aiimage" />
-
+            </div>
+             <div className='gpt3__header-image'>
+                <img src={ai} alt="aiimage" />
             </div>
         </div>
-
-        </div>
+     
     )
 }
 export default Header;
