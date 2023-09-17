@@ -43,8 +43,7 @@ body{
     padding: 0 1rem;
     outline: 1;
     color: #fff;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    
 
 }
 .gpt3__header-content__input button{
@@ -52,7 +51,7 @@ body{
     width: 100%;
     min-height: 50px;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 27px;
     background: #ff4820;
     color: #fff;
@@ -60,8 +59,7 @@ body{
     outline: none;
     padding: 0 1rem;
     border: none;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    
 }
 .gpt3__header-content__people{
     width:100%;
